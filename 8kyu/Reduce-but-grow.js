@@ -3,3 +3,5 @@
 // [1, 2, 3, 4] => 1 * 2 * 3 * 4 = 24
 
 //My solution
+
+const grow = x => x.reduce((a,b) => a * b);
