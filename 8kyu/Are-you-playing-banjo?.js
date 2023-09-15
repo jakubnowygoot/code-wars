@@ -7,4 +7,3 @@
 // name + " does not play banjo"
 // Names given are always valid strings.
 
-//My solution
